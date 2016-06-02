@@ -1,0 +1,2 @@
+# checkPointInPolyGon
+判断touchpoint 是否在tiledmap的多边形对象内
